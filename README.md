@@ -1,4 +1,5 @@
 # Python
 Moji programi python.
-1. Program za preimenovanje datotek
-2. Stara igra v pythonu UganiŽival, moj projekt z mlajšim bratom.
+
+1. Stara igra v pythonu Ugani žival, moj projekt z mlajšim bratom.
+2. Program za preimenovanje datotek
