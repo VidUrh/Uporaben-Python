@@ -1,3 +1,11 @@
+"""
+Napisal:Vid Urh
+
+Opomba: Projekt za učenje tkinter grafičnih orodij, izdelano v 1 letu učenja programiranja.
+
+"""
+
+
 from tkinter import * #Grafika
 import random #Naključna izbira
 import time
